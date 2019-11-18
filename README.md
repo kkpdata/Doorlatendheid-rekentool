@@ -19,4 +19,4 @@ De rekentool maakt gebruik van het VNK2 neuraal netwerk.
 
 # Contactpersoon
 [Iris van de Kerk](https://github.com/orgs/kkpdata/people/IvdK), (Iris.vande.kerk@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
-[Ilze Plomp-Van der Sar](ilze.vander.sar@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
+[Ilze Plomp-Van der Sar], (ilze.vander.sar@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
