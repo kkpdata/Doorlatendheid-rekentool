@@ -9,6 +9,7 @@ De piping doorlatendheid rekentool is een applicatie die de equivalente doorlate
 
 # Installer
 
+De tool kan worden gebruikt door de volledige map te downloaden van github (zodat alle benodigde bestanden op uw pc komen te staan). Binnen het submapje 'release' vindt u de toepassing. 
 
 # Gebruik en functionaliteit
 
